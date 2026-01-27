@@ -28,14 +28,10 @@ const readme = `\
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Senior Software Engineer – Backend Systems working for a Health Tech startup in India 
+- 🏦 I'm a Senior Software Engineer – Backend Systems working for PayPay
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
-- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
-- 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
-- 💬 Talk to me about cricket, python (neither of these is any insect or animal), Silicon Valley & startups
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
+- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/)
+- 💻 I use daily: **.kt**, **.java**, and  **.sql**
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
@@ -55,9 +51,9 @@ const readme = `\
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)
-![Apoorv's github streak](https://streak-stats.demolab.com?user=apoorvtyagi&theme=dark&mode=weekly)
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=tyagiapoorv&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tyagiapoorv&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)
+![Apoorv's github streak](https://streak-stats.demolab.com?user=tyagiapoorv&theme=dark&mode=weekly)
 
 <!--START_SECTION:waka-->
 
@@ -93,5 +89,6 @@ const readme = `\
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, Refresh again to view the Card" width = '11000' />
 `
 console.log(readme)
+
 
 
