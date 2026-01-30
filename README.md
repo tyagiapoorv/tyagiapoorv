@@ -7,10 +7,9 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Senior Software Engineer – Backend Systems working for PayPay
+- 🏦 I'm a Software Engineer – Backend Systems, working for PayPay
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/)
-- 💻 I use daily: **.kt**, **.java**, and  **.sql**
+- 📝 I write tech articles @ [apoorvtyagi.tech](https://apoorvtyagi.tech/)
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
@@ -35,7 +34,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 7.68% as on ⏰ 29-Jan-2026
+⏳ **Year Progress:** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 7.96% as on ⏰ 30-Jan-2026
 
 ---
 
@@ -55,7 +54,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Computer Science is no more about computers than astronomy is about telescopes.”— Edsger W. Dijkstra  </i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
