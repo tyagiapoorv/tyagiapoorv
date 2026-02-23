@@ -31,6 +31,39 @@
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Stats:
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=tyagiapoorv&theme=dark&mode=weekly)
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
+🌆 Daytime    215 commits    ██████████████░░░░░░░░░░░   58.9% 
+🌃 Evening    99 commits     ██████░░░░░░░░░░░░░░░░░░░   27.12% 
+🌙 Night      7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
+
+```
+**I'm Most Productive on Tuesday** 📅 
+
+```text
+Monday       74 commits     █████░░░░░░░░░░░░░░░░░░░░   22.56% 
+Tuesday      100 commits    ███████░░░░░░░░░░░░░░░░░░   30.49% 
+Wednesday    35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.67% 
+Thursday     52 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.85% 
+Friday       62 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.9% 
+Saturday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22% 
+Sunday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+
+```
+
+
+**I Mostly Code in Java 💻** 
+
+```text
+Java                     2 repos             ████████████░░░░░░░░░░░░░   50.0% 
+HTML                     1 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+JavaScript               1 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0%
+
+```
+
+
 
 <!--END_SECTION:waka-->
 
