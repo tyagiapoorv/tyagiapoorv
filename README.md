@@ -19,7 +19,7 @@
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
@@ -31,48 +31,10 @@
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Stats:
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=tyagiapoorv&theme=dark&mode=weekly)
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
-🌆 Daytime    215 commits    ██████████████░░░░░░░░░░░   58.9% 
-🌃 Evening    99 commits     ██████░░░░░░░░░░░░░░░░░░░   27.12% 
-🌙 Night      7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
-
-```
-**I'm Most Productive on Tuesday** 📅 
-
-```text
-Monday       74 commits     █████░░░░░░░░░░░░░░░░░░░░   22.56% 
-Tuesday      100 commits    ███████░░░░░░░░░░░░░░░░░░   30.49% 
-Wednesday    35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.67% 
-Thursday     52 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.85% 
-Friday       62 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.9% 
-Saturday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22% 
-Sunday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
-
-```
-
-
-
-```text
-💬 Programming Languages: 
-Kotlin                   4 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   34.52% 
-YAML                     4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   28.54% 
-Markdown                 3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.97% 
-Properties               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Java Properties          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.68%
-```
-
-```text
-🔥 Editors: 
-IntelliJ IDEA            10 hrs 42 mins      ███████████████████░░░░░░   75.8% 
-Cursor                   3 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   24.2%
-```
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 14.53% as on ⏰ 23-Feb-2026
+⏳ **Year Progress:** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 14.82% as on ⏰ 24-Feb-2026
 
 ---
 
@@ -92,12 +54,12 @@ Cursor                   3 hrs 25 mins       ██████░░░░░�
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The very first computer was an abacus invested 500 B.C in Babylon made of string and beads whose main purpose was to count.</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
 ---
 
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's Some Try-Hard Humor:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, Refresh again to view the Card" width = '11000' />
 
