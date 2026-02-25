@@ -31,7 +31,43 @@
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Stats:
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=tyagiapoorv&theme=dark&mode=weekly)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2026%20mins-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                633 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+🌆 Daytime                2479 commits        █████████████████░░░░░░░░   66.62 % 
+🌃 Evening                525 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+🌙 Night                  84 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1389 commits        █████████░░░░░░░░░░░░░░░░   37.33 % 
+Tuesday                  718 commits         █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Wednesday                326 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Thursday                 656 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Friday                   581 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Saturday                 7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Sunday                   44 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+```
+
+
+**I Mostly Code in Kotlin** 
+
+```text
+Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HCL                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+```
+
+
+
+
+ Last Updated on 25/02/2026 15:55:34 UTC
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 15.09% as on ⏰ 25-Feb-2026
