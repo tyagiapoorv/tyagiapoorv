@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: '15 0 * * *' # Daily at 12:15 AM UTC (5:45 AM IST)
+    - cron: '15 1 * * *' # Daily at 1:15 AM UTC (6:45 AM IST)
 
 jobs:
   update-readme:
@@ -23,3 +23,5 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_UPDATED_DATE: "False"
