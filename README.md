@@ -31,43 +31,20 @@
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Stats:
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=tyagiapoorv&theme=dark&mode=weekly)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2026%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                759 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-🌆 Daytime                2563 commits        ████████████████░░░░░░░░░   63.77 % 
-🌃 Evening                606 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-🌙 Night                  91 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1435 commits        █████████░░░░░░░░░░░░░░░░   35.71 % 
-Tuesday                  789 commits         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-Wednesday                392 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Thursday                 721 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-Friday                   625 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Saturday                 7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Sunday                   50 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 15.91% as on ⏰ 28-Feb-2026
+⏳ **Year Progress:** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 16.19% as on ⏰ 1-Mar-2026
 
 ---
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Kafka Consumer Container Restarts in Kubernetes: A Production Case Study](https://dev.to/apoorvtyagi/kafka-consumer-container-restarts-in-kubernetes-a-production-case-study-1iid)
-- [How we solved cache invalidation in Kubernetes with a headless service](https://dev.to/apoorvtyagi/how-we-solved-cache-invalidation-in-kubernetes-with-a-headless-service-34dg)
-- [Going Vernacular: Engineering Our Way to Process Multilingual Names](https://dev.to/apoorvtyagi/going-vernacular-engineering-our-way-to-process-multilingual-names-5mh)
-- [How to Keep Your Package Dependencies Up to Date on Azure DevOps](https://dev.to/apoorvtyagi/how-to-keep-your-package-dependencies-up-to-date-on-azure-devops-4d0p)
-- [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://dev.to/apoorvtyagi/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway-1571)
+- [How we solved cache invalidation in Kubernetes with a headless service](https://apoorvtyagi.tech/how-we-solved-cache-invalidation-in-kubernetes-with-a-headless-service)
+- [Going Vernacular: Engineering Our Way to Process Multilingual Names](https://apoorvtyagi.tech/going-vernacular-engineering-our-way-to-process-multilingual-names)
+- [Building Resilient Systems: Retry Pattern in Microservices](https://apoorvtyagi.tech/building-resilient-systems-retry-pattern-in-microservices)
+- [How to Keep Your Package Dependencies Up to Date on Azure DevOps](https://apoorvtyagi.tech/how-to-keep-your-package-dependencies-up-to-date-on-azure-devops)
+- [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://apoorvtyagi.tech/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [... view more](https://apoorvtyagi.tech/)
@@ -77,7 +54,7 @@ Sunday                   50 commits          ░░░░░░░░░░░�
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“If people never did silly things, nothing intelligent would ever get done.”— Ludwig Wittgenstein   </i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
