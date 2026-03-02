@@ -31,33 +31,10 @@
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Stats:
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=tyagiapoorv&theme=dark&mode=weekly)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2027%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                759 commits         █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-🌆 Daytime                2557 commits        ████████████████░░░░░░░░░   63.69 % 
-🌃 Evening                606 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-🌙 Night                  93 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1433 commits        █████████░░░░░░░░░░░░░░░░   35.69 % 
-Tuesday                  779 commits         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Wednesday                391 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Thursday                 720 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-Friday                   626 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Saturday                 13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Sunday                   53 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 16.19% as on ⏰ 1-Mar-2026
+⏳ **Year Progress:** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 16.46% as on ⏰ 2-Mar-2026
 
 ---
 
@@ -77,7 +54,7 @@ Sunday                   53 commits          ░░░░░░░░░░░�
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Whether you use Mozilla, Chrome Explore, please know that Mosaic was the first browser in  Just when I was born.</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
