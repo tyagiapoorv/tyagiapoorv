@@ -31,33 +31,10 @@
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Stats:
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=tyagiapoorv&theme=dark&mode=weekly)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2021%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1022 commits        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-🌆 Daytime                3112 commits        ████████████████░░░░░░░░░   62.28 % 
-🌃 Evening                741 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-🌙 Night                  122 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1675 commits        ████████░░░░░░░░░░░░░░░░░   33.52 % 
-Tuesday                  944 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-Wednesday                484 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Thursday                 959 commits         █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-Friday                   814 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Saturday                 39 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-Sunday                   82 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 18.11% as on ⏰ 8-Mar-2026
+⏳ **Year Progress:** { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 18.38% as on ⏰ 9-Mar-2026
 
 ---
 
@@ -77,7 +54,7 @@ Sunday                   82 commits          ░░░░░░░░░░░�
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Apple’s first computer, the Apple I, went on sale in 1976 for $666.66 because Steve Wozniak liked repeating digits and found them easier to type. He said he was unaware of any Satanic connotations with the number.</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
