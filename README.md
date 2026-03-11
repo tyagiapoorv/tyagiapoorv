@@ -31,33 +31,10 @@
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Stats:
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=tyagiapoorv&theme=dark&mode=weekly)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2031%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1094 commits        █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-🌆 Daytime                3263 commits        ████████████████░░░░░░░░░   62.07 % 
-🌃 Evening                773 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-🌙 Night                  127 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1790 commits        █████████░░░░░░░░░░░░░░░░   34.05 % 
-Tuesday                  985 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Wednesday                516 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Thursday                 990 commits         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-Friday                   846 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Saturday                 42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Sunday                   88 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 18.65% as on ⏰ 10-Mar-2026
+⏳ **Year Progress:** { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 18.93% as on ⏰ 11-Mar-2026
 
 ---
 
@@ -77,7 +54,7 @@ Sunday                   88 commits          ░░░░░░░░░░░�
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>A professional typist types fast and types great amount of words daily. If we measure this as distance, than it will become 12.6 miles a day for the fingers of the typist to cover each day.</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
