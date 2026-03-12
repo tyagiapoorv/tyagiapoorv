@@ -31,33 +31,10 @@
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Stats:
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=tyagiapoorv&theme=dark&mode=weekly)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2036%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1162 commits        █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-🌆 Daytime                3254 commits        ███████████████░░░░░░░░░░   60.62 % 
-🌃 Evening                817 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-🌙 Night                  135 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1856 commits        █████████░░░░░░░░░░░░░░░░   34.58 % 
-Tuesday                  1036 commits        █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-Wednesday                542 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Thursday                 953 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Friday                   842 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Saturday                 45 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Sunday                   94 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 18.93% as on ⏰ 11-Mar-2026
+⏳ **Year Progress:** { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 19.20% as on ⏰ 12-Mar-2026
 
 ---
 
@@ -77,7 +54,7 @@ Sunday                   94 commits          ░░░░░░░░░░░�
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Konrad Zuse is the inventor of the first programmable computer in the world. He did it in 1936 and named the computer as Z1. Konrad Zuse</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
