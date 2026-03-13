@@ -31,42 +31,19 @@
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Stats:
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=tyagiapoorv&theme=dark&mode=weekly)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2024%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1361 commits        ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
-🌆 Daytime                3544 commits        ███████████████░░░░░░░░░░   59.38 % 
-🌃 Evening                906 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-🌙 Night                  157 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   2060 commits        █████████░░░░░░░░░░░░░░░░   34.52 % 
-Tuesday                  1132 commits        █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-Wednesday                651 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Thursday                 1048 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Friday                   915 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Saturday                 53 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Sunday                   109 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 19.20% as on ⏰ 12-Mar-2026
+⏳ **Year Progress:** { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 19.48% as on ⏰ 13-Mar-2026
 
 ---
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Kafka Consumer Container Restarts in Kubernetes: A Production Case Study](https://apoorvtyagi.tech/kafka-consumer-container-restarts-in-kubernetes-a-production-case-study)
 - [How we solved cache invalidation in Kubernetes with a headless service](https://apoorvtyagi.tech/how-we-solved-cache-invalidation-in-kubernetes-with-a-headless-service)
 - [Going Vernacular: Engineering Our Way to Process Multilingual Names](https://apoorvtyagi.tech/going-vernacular-engineering-our-way-to-process-multilingual-names)
 - [Building Resilient Systems: Retry Pattern in Microservices](https://apoorvtyagi.tech/building-resilient-systems-retry-pattern-in-microservices)
-- [How to Keep Your Package Dependencies Up to Date on Azure DevOps](https://apoorvtyagi.tech/how-to-keep-your-package-dependencies-up-to-date-on-azure-devops)
 - [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://apoorvtyagi.tech/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway)
 <!-- BLOG-POST-LIST:END -->
 
@@ -77,7 +54,7 @@ Sunday                   109 commits         ░░░░░░░░░░░�
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Two years from now, spam will be solved.”— Bill Gates, 2004   </i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
