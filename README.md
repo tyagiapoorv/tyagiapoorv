@@ -31,33 +31,10 @@
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Stats:
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=tyagiapoorv&theme=dark&mode=weekly)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2033%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1366 commits        ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-🌆 Daytime                3604 commits        ███████████████░░░░░░░░░░   59.74 % 
-🌃 Evening                907 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-🌙 Night                  156 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   2114 commits        █████████░░░░░░░░░░░░░░░░   35.04 % 
-Tuesday                  1130 commits        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Wednesday                655 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Thursday                 1036 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Friday                   936 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Saturday                 53 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Sunday                   109 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 20.03% as on ⏰ 15-Mar-2026
+⏳ **Year Progress:** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 20.30% as on ⏰ 16-Mar-2026
 
 ---
 
@@ -77,7 +54,7 @@ Sunday                   109 commits         ░░░░░░░░░░░�
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>YouTube was founded by 3 former employees of PayPal.</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
