@@ -7,10 +7,6 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Software Engineer – Backend Systems, working for PayPay
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I write tech articles @ [apoorvtyagi.tech](https://apoorvtyagi.tech/)
-- 🧑‍💻 Tech I work on :
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
@@ -31,53 +27,24 @@
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Stats:
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=tyagiapoorv&theme=dark&mode=weekly)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2033%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1431 commits        ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
-🌆 Daytime                3770 commits        ███████████████░░░░░░░░░░   59.94 % 
-🌃 Evening                929 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-🌙 Night                  160 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   2214 commits        █████████░░░░░░░░░░░░░░░░   35.20 % 
-Tuesday                  1155 commits        █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Wednesday                689 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Thursday                 1088 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Friday                   976 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Saturday                 55 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-Sunday                   113 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 20.30% as on ⏰ 16-Mar-2026
+⏳ **Year Progress:** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 20.57% as on ⏰ 17-Mar-2026
 
 ---
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Kafka Consumer Container Restarts in Kubernetes: A Production Case Study](https://apoorvtyagi.tech/kafka-consumer-container-restarts-in-kubernetes-a-production-case-study)
-- [How we solved cache invalidation in Kubernetes with a headless service](https://apoorvtyagi.tech/how-we-solved-cache-invalidation-in-kubernetes-with-a-headless-service)
-- [Going Vernacular: Engineering Our Way to Process Multilingual Names](https://apoorvtyagi.tech/going-vernacular-engineering-our-way-to-process-multilingual-names)
-- [Building Resilient Systems: Retry Pattern in Microservices](https://apoorvtyagi.tech/building-resilient-systems-retry-pattern-in-microservices)
-- [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://apoorvtyagi.tech/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway)
-<!-- BLOG-POST-LIST:END -->
 
-▶ [... view more](https://apoorvtyagi.tech/)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The first bug in a computer was a dead moth found shorting a relay in the Harvard Mark II computer in 1947</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
