@@ -23,6 +23,29 @@
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Stats:
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=tyagiapoorv&theme=dark&mode=weekly)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2042%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1519 commits        ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+🌆 Daytime                4141 commits        ███████████████░░░░░░░░░░   60.96 % 
+🌃 Evening                967 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+🌙 Night                  166 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2461 commits        █████████░░░░░░░░░░░░░░░░   36.23 % 
+Tuesday                  1192 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Wednesday                800 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Thursday                 1116 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Friday                   1047 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Saturday                 58 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Sunday                   119 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+```
+
+
 
 <!--END_SECTION:waka-->
 
